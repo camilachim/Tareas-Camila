@@ -1,4 +1,4 @@
-Trabajo de programacion realizado con los bucles FOR-WHILE y DO WHILe
+**Trabajo de programacion realizado con los bucles FOR-WHILE y DO WHILe**
 **1 Ejercicio (Suma de digitos)**
 
 https://github.com/camilachim/Tareas-Camila/blob/5d9fe8a87711b6ce364ce3782936e53745ee2cce/1sumadigitosdowhile.c
