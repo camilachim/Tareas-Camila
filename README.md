@@ -1,11 +1,11 @@
 Trabajo de programacion realizado con los bucles FOR-WHILE y DO WHILe
 **1 Ejercicio (Suma de digitos)**
 
+https://github.com/camilachim/Tareas-Camila/blob/5d9fe8a87711b6ce364ce3782936e53745ee2cce/1sumadigitosdowhile.c
+
 https://github.com/camilachim/Tareas-Camila/blob/b54dc2f7cdee6c0986c3d03d7d1ce4488e4ac1a0/1sumadigitosfor.c
 
 https://github.com/camilachim/Tareas-Camila/blob/e513537c4a792d1a8304d133f3d6c0dafa3915e8/1sumadigitoswhile.c
-
-https://github.com/camilachim/Tareas-Camila/blob/5d9fe8a87711b6ce364ce3782936e53745ee2cce/1sumadigitosdowhile.c
 
 **2 Ejercicio (Inverso de un numero)**
 
