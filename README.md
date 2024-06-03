@@ -8,23 +8,38 @@ https://github.com/camilachim/Tareas-Camila/blob/e513537c4a792d1a8304d133f3d6c0d
 https://github.com/camilachim/Tareas-Camila/blob/e513537c4a792d1a8304d133f3d6c0dafa3915e8/1sumadigitoswhile.c
 
 
-2 Ejercicio (Inverso de un numero)
+**2 Ejercicio (Inverso de un numero)**
+
 https://github.com/camilachim/Tareas-Camila/blob/e513537c4a792d1a8304d133f3d6c0dafa3915e8/2inversonumerodowhile.c
+
 https://github.com/camilachim/Tareas-Camila/blob/e513537c4a792d1a8304d133f3d6c0dafa3915e8/2inversonumerofor.c
+
 https://github.com/camilachim/Tareas-Camila/blob/e513537c4a792d1a8304d133f3d6c0dafa3915e8/2inversonumerowhile.c
-3 Ejercicio (Potencia mediante sumas sucesivas)
+
+**3 Ejercicio (Potencia mediante sumas sucesivas)**
+
 https://github.com/camilachim/Tareas-Camila/blob/e513537c4a792d1a8304d133f3d6c0dafa3915e8/3potenciadowhile.c
+
 https://github.com/camilachim/Tareas-Camila/blob/e513537c4a792d1a8304d133f3d6c0dafa3915e8/3potenciafor.c
+
 https://github.com/camilachim/Tareas-Camila/blob/e513537c4a792d1a8304d133f3d6c0dafa3915e8/3potenciawhile.c
-4 Ejercicio (Radicación mediante restas sucecivas)
+
+**4 Ejercicio (Radicación mediante restas sucecivas)**
+
 https://github.com/camilachim/Tareas-Camila/blob/e513537c4a792d1a8304d133f3d6c0dafa3915e8/4radicaciondowhile.c
+
 https://github.com/camilachim/Tareas-Camila/blob/e513537c4a792d1a8304d133f3d6c0dafa3915e8/4radicacioneswhile.c
+
 https://github.com/camilachim/Tareas-Camila/blob/e513537c4a792d1a8304d133f3d6c0dafa3915e8/4radicacionfor.c
-5 Ejercicio (Serie Fibonacci)
+
+**5 Ejercicio (Serie Fibonacci)**
 https://github.com/camilachim/Tareas-Camila/blob/e513537c4a792d1a8304d133f3d6c0dafa3915e8/5fibonaccidowhile.c
+
 https://github.com/camilachim/Tareas-Camila/blob/e513537c4a792d1a8304d133f3d6c0dafa3915e8/5fibonaccifor.c
+
 https://github.com/camilachim/Tareas-Camila/blob/e513537c4a792d1a8304d133f3d6c0dafa3915e8/5fibonacciwhile.c
-6 Ejercicio (Factorial de un número)
+
+**6 Ejercicio (Factorial de un número)**
 https://github.com/camilachim/Tareas-Camila/blob/e513537c4a792d1a8304d133f3d6c0dafa3915e8/6factorialdowhile.c
 https://github.com/camilachim/Tareas-Camila/blob/e513537c4a792d1a8304d133f3d6c0dafa3915e8/6factorialfor.c
 https://github.com/camilachim/Tareas-Camila/blob/e513537c4a792d1a8304d133f3d6c0dafa3915e8/6factorialwhile.c
